@@ -71,6 +71,6 @@ map f1 copy_to_buffer a
 map f2 paste_from_buffer a
 
 # BEGIN_KITTY_THEME
-# Tokyo Night
+# Atom One Light
 include current-theme.conf
 # END_KITTY_THEME
