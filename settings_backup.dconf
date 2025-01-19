@@ -1,0 +1,615 @@
+[ca/desrt/dconf-editor]
+saved-pathbar-path='natura'
+saved-view='/'
+window-height=500
+window-is-maximized=false
+window-width=540
+
+[com/ftpix/transparentbar]
+dark-full-screen=false
+transparency=50
+
+[com/github/donadigo/eddy]
+mime-types=['application/vnd.debian.binary-package', 'application/x-deb']
+window-x=884
+window-y=237
+
+[com/mattjakeman/ExtensionManager]
+last-used-version='0.3.0'
+
+[com/system76/hidpi]
+enable=false
+mode='hidpi'
+
+[io/elementary/appcenter/settings]
+cached-drivers=@as []
+last-refresh-time=int64 1716538469
+window-height=660
+window-maximized=false
+window-width=1024
+
+[org/gnome/Disks/benchmark]
+do-write=true
+num-access-samples=1000
+num-samples=100
+sample-size-mib=10
+
+[org/gnome/GWeather]
+temperature-unit='centigrade'
+
+[org/gnome/Geary]
+compose-as-html=true
+formatting-toolbar-visible=false
+migrated-config=true
+
+[org/gnome/Totem]
+active-plugins=['rotation', 'autoload-subtitles', 'recent', 'open-directory', 'apple-trailers', 'vimeo', 'save-file', 'variable-rate', 'screensaver', 'skipto', 'screenshot', 'mpris', 'movie-properties']
+subtitle-encoding='UTF-8'
+
+[org/gnome/baobab/ui]
+active-chart='treemap'
+window-size=(1420, 813)
+window-state=43908
+
+[org/gnome/boxes]
+first-run=false
+view='list-view'
+window-maximized=true
+
+[org/gnome/calculator]
+accuracy=9
+angle-units='degrees'
+base=10
+button-mode='basic'
+number-format='automatic'
+show-thousands=false
+show-zeroes=false
+source-currency=''
+source-units='degree'
+target-currency=''
+target-units='radian'
+window-position=(1060, 756)
+word-size=64
+
+[org/gnome/calendar]
+active-view='year'
+window-maximized=true
+window-position=(0, 0)
+window-size=(2880, 1800)
+
+[org/gnome/charmap]
+last-char=uint32 42855
+
+[org/gnome/charmap/window-state]
+size=(1620, 1012)
+
+[org/gnome/cheese]
+burst-delay=1000
+camera='ACER QHD User Facing: ACER QHD'
+photo-x-resolution=2560
+photo-y-resolution=1440
+video-x-resolution=1920
+video-y-resolution=1080
+
+[org/gnome/control-center]
+last-panel='bluetooth'
+
+[org/gnome/deja-dup]
+backend='local'
+last-backup='2024-05-25T06:11:05.667800Z'
+last-run='2024-10-02T15:21:51.709697Z'
+nag-check='2024-05-25T06:02:46.291867Z'
+periodic=false
+prompt-check='2024-05-25T10:13:47.423468Z'
+
+[org/gnome/deja-dup/google]
+folder='tushar'
+
+[org/gnome/deja-dup/local]
+folder='/media/tushar/4e73812c-585d-48d5-b5d5-8fff3831ce7e'
+
+[org/gnome/desktop/a11y/applications]
+screen-reader-enabled=false
+
+[org/gnome/desktop/a11y/keyboard]
+mousekeys-enable=false
+
+[org/gnome/desktop/app-folders/folders/Pop-Office]
+apps=['libreoffice-calc.desktop', 'libreoffice-draw.desktop', 'libreoffice-impress.desktop', 'libreoffice-math.desktop', 'libreoffice-startcenter.desktop', 'libreoffice-writer.desktop']
+name='Office'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/Pop-System]
+apps=['gnome-language-selector.desktop', 'gnome-session-properties.desktop', 'gnome-system-monitor.desktop', 'im-config.desktop', 'nm-connection-editor.desktop', 'nvidia-settings.desktop', 'org.gnome.baobab.desktop', 'org.gnome.DiskUtility.desktop', 'org.gnome.PowerStats.desktop', 'org.gnome.seahorse.Application.desktop', 'software-properties-gnome.desktop', 'system76-driver.desktop', 'system76-firmware.desktop']
+name='System'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/Pop-Utility]
+apps=['com.github.donadigo.eddy.desktop', 'com.system76.Popsicle.desktop', 'gucharmap.desktop', 'info.desktop', 'org.gnome.eog.desktop', 'org.gnome.Evince.desktop', 'org.gnome.Extensions.desktop', 'org.gnome.FileRoller.desktop', 'org.gnome.font-viewer.desktop', 'org.gnome.Screenshot.desktop', 'org.gnome.Totem.desktop', 'pop-cosmic-applications.desktop', 'pop-cosmic-launcher.desktop', 'pop-cosmic-workspaces.desktop', 'simple-scan.desktop', 'yelp.desktop']
+name='Utilities'
+translate=true
+
+[org/gnome/desktop/applications/terminal]
+exec='kitty'
+
+[org/gnome/desktop/background]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///home/tushar/paul-volkmer-fX-qWsXl5x8-unsplash.jpg'
+picture-uri-dark='file:///home/tushar/paul-volkmer-fX-qWsXl5x8-unsplash.jpg'
+primary-color='#000000'
+secondary-color='#000000'
+
+[org/gnome/desktop/calendar]
+show-weekdate=false
+
+[org/gnome/desktop/input-sources]
+current=uint32 0
+per-window=true
+show-all-sources=true
+sources=[('xkb', 'us')]
+xkb-options=@as []
+
+[org/gnome/desktop/interface]
+clock-show-date=true
+color-scheme='prefer-dark'
+cursor-size=24
+cursor-theme='McMojave-cursors'
+document-font-name='Ubuntu 11'
+enable-animations=true
+enable-hot-corners=false
+font-antialiasing='rgba'
+font-hinting='medium'
+font-name='Ubuntu 10'
+gtk-theme='Pop-dark'
+icon-theme='Flatery-Indigo-Dark'
+locate-pointer=false
+monospace-font-name='Ubuntu 11'
+show-battery-percentage=true
+text-scaling-factor=1.8
+toolbar-style='text'
+toolkit-accessibility=false
+
+[org/gnome/desktop/notifications]
+application-children=['gnome-control-center', 'kitty', 'org-gnome-gedit', 'org-gnome-terminal', 'flatpak-installer', 'org-telegram-desktop', 'gnome-power-panel', 'brave-browser', 'org-gnome-nautilus', 'org-gnome-tweaks', 'tradingview-tradingview', 'brave-hnpfjngllnobngcgfapefoaidbinmjnm-default', 'com-obsproject-studio', 'gnome-network-panel', 'google-chrome', 'org-gnome-baobab', 'com-github-donadigo-eddy', 'steam', 'realvnc-vncviewer', 'org-gnome-world-pikabackup', 'org-gnome-evolution-alarm-notify', 'libreoffice-impress', 'firefox', 'org-gnome-fileroller', 'com-discordapp-discord', 'org-gnome-evince', 'org-remmina-remmina', 'libreoffice-draw']
+show-banners=true
+
+[org/gnome/desktop/notifications/application/brave-browser]
+application-id='brave-browser.desktop'
+
+[org/gnome/desktop/notifications/application/brave-hnpfjngllnobngcgfapefoaidbinmjnm-default]
+application-id='brave-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop'
+
+[org/gnome/desktop/notifications/application/brave-hnpfjngllnobngcgfapefoaidbinmjnm-profile-8]
+application-id='brave-hnpfjngllnobngcgfapefoaidbinmjnm-Profile_8.desktop'
+
+[org/gnome/desktop/notifications/application/com-discordapp-discord]
+application-id='com.discordapp.Discord.desktop'
+
+[org/gnome/desktop/notifications/application/com-github-donadigo-eddy]
+application-id='com.github.donadigo.eddy.desktop'
+
+[org/gnome/desktop/notifications/application/com-obsproject-studio]
+application-id='com.obsproject.Studio.desktop'
+
+[org/gnome/desktop/notifications/application/firefox]
+application-id='firefox.desktop'
+
+[org/gnome/desktop/notifications/application/flatpak-installer]
+application-id='flatpak-installer.desktop'
+
+[org/gnome/desktop/notifications/application/gnome-control-center]
+application-id='gnome-control-center.desktop'
+enable=false
+
+[org/gnome/desktop/notifications/application/gnome-network-panel]
+application-id='gnome-network-panel.desktop'
+
+[org/gnome/desktop/notifications/application/gnome-power-panel]
+application-id='gnome-power-panel.desktop'
+
+[org/gnome/desktop/notifications/application/gnome-printers-panel]
+application-id='gnome-printers-panel.desktop'
+
+[org/gnome/desktop/notifications/application/google-chrome]
+application-id='google-chrome.desktop'
+
+[org/gnome/desktop/notifications/application/io-elementary-appcenter]
+application-id='io.elementary.appcenter.desktop'
+enable=false
+
+[org/gnome/desktop/notifications/application/io-github-mimbrero-whatsappdesktop]
+application-id='io.github.mimbrero.WhatsAppDesktop.desktop'
+
+[org/gnome/desktop/notifications/application/io-podman-desktop-podmandesktop]
+application-id='io.podman_desktop.PodmanDesktop.desktop'
+
+[org/gnome/desktop/notifications/application/kitty]
+application-id='kitty.desktop'
+
+[org/gnome/desktop/notifications/application/lens-desktop]
+application-id='lens-desktop.desktop'
+
+[org/gnome/desktop/notifications/application/libreoffice-draw]
+application-id='libreoffice-draw.desktop'
+
+[org/gnome/desktop/notifications/application/libreoffice-impress]
+application-id='libreoffice-impress.desktop'
+
+[org/gnome/desktop/notifications/application/libreoffice-writer]
+application-id='libreoffice-writer.desktop'
+
+[org/gnome/desktop/notifications/application/nomachine-status]
+application-id='NoMachine-status.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-baobab]
+application-id='org.gnome.baobab.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-dejadup]
+application-id='org.gnome.DejaDup.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-diskutility]
+application-id='org.gnome.DiskUtility.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-eog]
+application-id='org.gnome.eog.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-evince]
+application-id='org.gnome.Evince.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-evolution-alarm-notify]
+application-id='org.gnome.Evolution-alarm-notify.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-fileroller]
+application-id='org.gnome.FileRoller.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-gedit]
+application-id='org.gnome.gedit.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-nautilus]
+application-id='org.gnome.Nautilus.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-software]
+application-id='org.gnome.Software.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-terminal]
+application-id='org.gnome.Terminal.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-totem]
+application-id='org.gnome.Totem.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-tweaks]
+application-id='org.gnome.tweaks.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-world-pikabackup]
+application-id='org.gnome.World.PikaBackup.desktop'
+
+[org/gnome/desktop/notifications/application/org-localsend-localsend-app]
+application-id='org.localsend.localsend_app.desktop'
+
+[org/gnome/desktop/notifications/application/org-remmina-remmina]
+application-id='org.remmina.Remmina.desktop'
+
+[org/gnome/desktop/notifications/application/org-telegram-desktop]
+application-id='org.telegram.desktop.desktop'
+
+[org/gnome/desktop/notifications/application/protonvpn-app]
+application-id='protonvpn-app.desktop'
+
+[org/gnome/desktop/notifications/application/realvnc-vncviewer]
+application-id='realvnc-vncviewer.desktop'
+
+[org/gnome/desktop/notifications/application/steam]
+application-id='steam.desktop'
+
+[org/gnome/desktop/notifications/application/tradingview-tradingview]
+application-id='tradingview_tradingview.desktop'
+
+[org/gnome/desktop/notifications/application/tradingview]
+application-id='tradingview.desktop'
+
+[org/gnome/desktop/peripherals/mouse]
+accel-profile='adaptive'
+left-handed=false
+natural-scroll=false
+speed=1.0
+
+[org/gnome/desktop/peripherals/touchpad]
+disable-while-typing=false
+edge-scrolling-enabled=false
+natural-scroll=false
+speed=0.94117647058823528
+two-finger-scrolling-enabled=true
+
+[org/gnome/desktop/privacy]
+report-technical-problems=false
+
+[org/gnome/desktop/screensaver]
+color-shading-type='solid'
+lock-delay=uint32 0
+picture-options='zoom'
+picture-uri='file:///usr/share/backgrounds/pop/jad-limcaco-183877.jpg'
+primary-color='#000000'
+secondary-color='#000000'
+
+[org/gnome/desktop/session]
+idle-delay=uint32 0
+
+[org/gnome/desktop/sound]
+allow-volume-above-100-percent=true
+theme-name='Pop'
+
+[org/gnome/desktop/wm/keybindings]
+activate-window-menu=@as []
+close=['<Primary>q', '<Alt>F4']
+maximize=@as []
+move-to-workspace-1=['<Shift><Super>Home', '<Super>1']
+move-to-workspace-2=['<Super>2']
+move-to-workspace-3=['<Super>3']
+show-desktop=['<Super>d']
+switch-applications=['<Super>Tab']
+switch-applications-backward=['<Shift><Super>Tab']
+switch-input-source=@as []
+switch-input-source-backward=@as []
+switch-to-workspace-down=['<Primary><Super>Down', '<Primary><Super>KP_Down', '<Primary><Super>j', '<Super>Down']
+switch-to-workspace-up=['<Primary><Super>Up', '<Primary><Super>KP_Up', '<Primary><Super>k', '<Super>Up']
+switch-windows=['<Alt>Tab']
+switch-windows-backward=['<Shift><Alt>Tab']
+toggle-fullscreen=['<Alt>f', '<Super>f']
+toggle-maximized=@as []
+
+[org/gnome/desktop/wm/preferences]
+button-layout='appmenu:minimize,maximize,close'
+theme='Dracula'
+titlebar-font='Ubuntu 10'
+
+[org/gnome/eog/view]
+background-color='rgb(0,0,0)'
+use-background-color=true
+
+[org/gnome/evince]
+document-directory=@ms 'file:///home/tushar/Desktop/clg/chem'
+
+[org/gnome/evince/default]
+window-ratio=(3.022875816993464, 1.6590909090909092)
+
+[org/gnome/evolution-data-server]
+migrated=true
+network-monitor-gio-name=''
+
+[org/gnome/evolution-data-server/calendar]
+notify-window-height=320
+notify-window-paned-position=48
+notify-window-width=260
+notify-window-x=0
+notify-window-y=0
+reminders-past=['60c89b92d6e224965f4a7f7acc45cb44d350164c\nc8fc7257af020c654f59a91d893eb597d4a93efc\t20241027T080000\n1729994400\n1729996200\n1730001600\nBEGIN:VEVENT\r\nDTSTART;TZID=Asia/Kolkata:20241027T080000\r\nDTEND;TZID=Asia/Kolkata:20241027T093000\r\nDTSTAMP:20241025T133803Z\r\nUID:0vjc1c5o0s65qln6s54ngn06hv@google.com\r\nCREATED:20241025T133803Z\r\nDESCRIPTION:[LeetCode] - Weekly Contest 421\r\nLAST-MODIFIED:20241025T133803Z\r\nLOCATION:https://leetcode.com/contest/weekly-contest-421\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:[LeetCode] - Weekly Contest 421\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63865546683\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:c8fc7257af020c654f59a91d893eb597d4a93efc\r\nEND:VALARM\r\nEND:VEVENT\r\n', 'b095eb440beb1d83650a2ffcf0ce454c578fdae3\n86c62c47a64fd8633a916d0bb1e80359ec0c3c62\t20240830T163000\n1725013800\n1725015600\n1735905600\nBEGIN:VEVENT\r\nDTSTART;TZID=Asia/Kolkata:20240830T163000\r\nDTEND;TZID=Asia/Kolkata:20250103T173000\r\nDTSTAMP:20240426T103618Z\r\nUID:\r\n cdijie9k60p30bb2cdh62b9kcgq30b9o75hmab9hclh3gd1m70r6ap9p6c@google.com\r\nCREATED:20240426T103618Z\r\nX-LIC-ERROR;X-LIC-ERRORTYPE=VALUE-PARSE-ERROR:No value for DESCRIPTION \r\n property. Removing entire property:\r\nLAST-MODIFIED:20240426T103618Z\r\nX-LIC-ERROR;X-LIC-ERRORTYPE=VALUE-PARSE-ERROR:No value for LOCATION \r\n property. Removing entire property:\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:Ranjan\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63849810978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:86c62c47a64fd8633a916d0bb1e80359ec0c3c62\r\nEND:VALARM\r\nEND:VEVENT\r\n', '7774e173478ea03867c05739987bcde5b4938345\nc9cad0457ac8561273e3030be489c5215cffa8b6\t20240627T230000\n1719507600\n1719509400\n1719513000\nBEGIN:VEVENT\r\nDTSTART;TZID=Asia/Kolkata:20240627T230000\r\nDTEND;TZID=Asia/Kolkata:20240628T000000\r\nDTSTAMP:20240616T032107Z\r\nUID:\r\n 69hm8cpg74p66b9p6oq30b9kc9ij6bb2ccs3cb9o60pjadb4c8pj8ob5cg@google.com\r\nCREATED:20240616T032107Z\r\nDESCRIPTION:Get up-to-date information at: https:\r\n //lu.ma/0dkoh78y\\n\\nHosted by farza & stavan\r\nLAST-MODIFIED:20240616T032107Z\r\nLOCATION:https://lu.ma/e/evt-7rRiFaqgInz5TqX\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:lab #2 -- plan it and build it.\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63854191267\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:c9cad0457ac8561273e3030be489c5215cffa8b6\r\nEND:VALARM\r\nEND:VEVENT\r\n', '7774e173478ea03867c05739987bcde5b4938345\na59adce856f5cc88e3517be7a51a6c87f9b40c51\t20240625T230000\n1719334800\n1719336600\n1719340200\nBEGIN:VEVENT\r\nDTSTART;TZID=Asia/Kolkata:20240625T230000\r\nDTEND;TZID=Asia/Kolkata:20240626T000000\r\nDTSTAMP:20240616T031613Z\r\nUID:\r\n 6gq64o9j6grjeb9o6lhm6b9kc5ij4bb16sr64bb1clij2cr471j62cj3c4@google.com\r\nCREATED:20240616T031613Z\r\nDESCRIPTION:Get up-to-date information at: https:\r\n //lu.ma/dx9jj855\\n\\nHosted by farza & stavan\r\nLAST-MODIFIED:20240616T031613Z\r\nLOCATION:https://lu.ma/e/evt-0fUBgxuzsfaYJzF\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:lecture #2 -- build a toy.\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63854190973\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:a59adce856f5cc88e3517be7a51a6c87f9b40c51\r\nEND:VALARM\r\nEND:VEVENT\r\n', '66d5aa0ef08d0be2c0dcb9f2abf9a3507d14e994\nf0f3c33557163322eb088b0b9c1a7fc067789f27\t20240620T230000\n1718902800\n1718904600\n1718908200\nBEGIN:VEVENT\r\nDTSTART;TZID=Asia/Kolkata:20240620T230000\r\nDTEND;TZID=Asia/Kolkata:20240621T000000\r\nDTSTAMP:20240616T031251Z\r\nUID:7neavmumuejdhv6mallsthduq6@google.com\r\nCREATED:20240616T031251Z\r\nDESCRIPTION:Get up-to-date information at: https:\r\n //lu.ma/nt67tpgd\\n\\nHosted by farza & stavan\r\nLAST-MODIFIED:20240616T031251Z\r\nLOCATION:https://lu.ma/e/evt-nAiLvcCjQjvP1Wg\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:lab #1 -- decide on your idea.\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63854190771\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:f0f3c33557163322eb088b0b9c1a7fc067789f27\r\nEND:VALARM\r\nEND:VEVENT\r\n', '66d5aa0ef08d0be2c0dcb9f2abf9a3507d14e994\n22792fd77490c61c8efa7fd42fa8ea3f978e5acf\t20240618T230000\n1718730000\n1718731800\n1718735400\nBEGIN:VEVENT\r\nDTSTART;TZID=Asia/Kolkata:20240618T230000\r\nDTEND;TZID=Asia/Kolkata:20240619T000000\r\nDTSTAMP:20240616T031111Z\r\nUID:79hq2ilrqicrtb00ah71ps9jh4@google.com\r\nCREATED:20240616T031111Z\r\nDESCRIPTION:Get up-to-date information at: https:\r\n //lu.ma/22v06op1\\n\\nHosted by farza & stavan\r\nLAST-MODIFIED:20240616T031111Z\r\nLOCATION:https://lu.ma/e/evt-1jDGWAAhGxLWbY3\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:lecture #1 -- ideas are forged\\, not found.\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63854190671\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:22792fd77490c61c8efa7fd42fa8ea3f978e5acf\r\nEND:VALARM\r\nEND:VEVENT\r\n']
+
+[org/gnome/file-roller/dialogs/extract]
+recreate-folders=true
+skip-newer=false
+
+[org/gnome/file-roller/listing]
+list-mode='as-folder'
+name-column-width=832
+show-path=false
+sort-method='name'
+sort-type='ascending'
+
+[org/gnome/file-roller/ui]
+sidebar-width=200
+window-height=1743
+window-width=2880
+
+[org/gnome/gedit/plugins]
+active-plugins=['modelines', 'sort', 'spell', 'openlinks', 'docinfo', 'filebrowser']
+
+[org/gnome/gedit/plugins/filebrowser]
+root='file:///'
+tree-view=true
+virtual-root='file:///home/tushar/gmail'
+
+[org/gnome/gedit/preferences/editor]
+scheme='pop-dark'
+
+[org/gnome/gedit/preferences/ui]
+show-tabs-mode='auto'
+
+[org/gnome/gedit/state/window]
+bottom-panel-size=140
+side-panel-active-page='GeditWindowDocumentsPanel'
+side-panel-size=200
+size=(900, 700)
+state=43908
+
+[org/gnome/gnome-system-monitor]
+maximized=false
+network-total-in-bits=false
+show-dependencies=false
+show-whose-processes='user'
+window-state=(700, 500, 50, 50)
+
+[org/gnome/gnome-system-monitor/disktreenew]
+col-6-visible=true
+col-6-width=0
+
+[org/gnome/mutter]
+attach-modal-dialogs=false
+edge-tiling=true
+experimental-features=['scale-monitor-framebuffer']
+overlay-key=''
+
+[org/gnome/nautilus/preferences]
+default-folder-viewer='icon-view'
+search-filter-time-type='last_modified'
+search-view='list-view'
+
+[org/gnome/nautilus/window-state]
+initial-size=(2864, 1784)
+maximized=true
+sidebar-width=270
+
+[org/gnome/nm-applet/eap/265513a4-404e-43ac-9314-11ff764f23e0]
+ignore-ca-cert=false
+ignore-phase2-ca-cert=false
+
+[org/gnome/nm-applet/eap/d2709fa5-5f28-43b6-aeb5-01e2c79d217d]
+ignore-ca-cert=false
+ignore-phase2-ca-cert=false
+
+[org/gnome/settings-daemon/plugins/color]
+night-light-last-coordinates=(28.577248139884809, 77.070848299999994)
+
+[org/gnome/settings-daemon/plugins/media-keys]
+custom-keybindings=['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1/']
+email=@as []
+help=@as []
+home=['<Super>e']
+logout=['<Primary><Alt>Delete', '<Shift><Alt>l']
+terminal=@as []
+www=@as []
+
+[org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0]
+binding='<Super>t'
+command='kitty bash'
+name='kitty'
+
+[org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1]
+binding='<Alt>space'
+command='rofi -i -show drun -modi drun -show-icons'
+name='rofi'
+
+[org/gnome/settings-daemon/plugins/power]
+idle-dim=false
+sleep-inactive-ac-timeout=1800
+sleep-inactive-ac-type='suspend'
+sleep-inactive-battery-timeout=1800
+sleep-inactive-battery-type='suspend'
+
+[org/gnome/shell]
+command-history=['gnome-session-properties', 'r']
+disable-user-extensions=false
+disabled-extensions=['user-theme@gnome-shell-extensions.gcampax.github.com', 'tophat@fflewddur.github.io', 'cosmic-dock@system76.com', 'popx11gestures@system76.com', 'Vitals@CoreCoding.com', 'ubuntu-appindicators@ubuntu.com']
+enabled-extensions=['pop-cosmic@system76.com', 'pop-shell@system76.com', 'hidetopbar@mathieu.bidon.ca', 'transparent-top-bar@ftpix.com', 'blur-me@nunchucks', 'cosmic-workspaces@system76.com', 'system76-power@system76.com', 'ding@rastersoft.com']
+had-bluetooth-devices-setup=true
+remember-mount-password=false
+welcome-dialog-last-shown-version='42.9'
+
+[org/gnome/shell/extensions/dash-to-dock]
+click-action='minimize-or-previews'
+dash-max-icon-size=36
+dock-fixed=false
+extend-height=false
+intellihide=false
+manualhide=true
+multi-monitor=true
+
+[org/gnome/shell/extensions/hidetopbar]
+enable-active-window=false
+enable-intellihide=false
+mouse-sensitive=true
+mouse-sensitive-fullscreen-window=true
+show-in-overview=false
+
+[org/gnome/shell/extensions/pop-cosmic]
+clock-alignment='CENTER'
+overlay-key-action='LAUNCHER'
+show-applications-button=false
+show-workspaces-button=false
+
+[org/gnome/shell/extensions/pop-shell]
+focus-down=['<Super>KP_Down', '<Super>j']
+focus-up=['<Super>KP_Up', '<Super>k']
+tile-by-default=false
+tile-swap-up=['<Primary>Up', '<Primary>KP_Up', '<Primary>k']
+
+[org/gnome/shell/extensions/user-theme]
+name='gtk-master'
+
+[org/gnome/shell/extensions/vitals]
+hide-icons=true
+hide-zeros=true
+hot-sensors=['_voltage_bat1_in0_', '_memory_usage_']
+include-static-info=true
+show-battery=true
+show-voltage=false
+
+[org/gnome/shell/keybindings]
+screenshot=['<Shift>Print', '<Shift><Alt>a']
+screenshot-window=['<Alt>Print']
+show-screen-recording-ui=['<Primary><Shift><Alt>r', '<Shift><Alt>r']
+show-screenshot-ui=['Print', '<Shift><Alt>d']
+toggle-application-view=@as []
+toggle-overview=@as []
+
+[org/gnome/shell/weather]
+automatic-location=true
+locations=@av []
+
+[org/gnome/simple-scan]
+document-type='photo'
+save-directory='file:///home/tushar/Desktop/'
+
+[org/gnome/software]
+check-timestamp=int64 1720325264
+install-timestamp=int64 1716538666
+online-updates-timestamp=int64 1720325287
+update-notification-timestamp=int64 1720325287
+
+[org/gnome/system/location]
+enabled=true
+
+[org/gtk/gtk4/settings/file-chooser]
+date-format='regular'
+location-mode='path-bar'
+show-hidden=true
+show-size-column=true
+show-type-column=true
+sidebar-width=195
+sort-column='name'
+sort-directories-first=false
+sort-order='ascending'
+type-format='category'
+window-size=(2426, 1085)
+
+[org/gtk/settings/file-chooser]
+date-format='regular'
+location-mode='path-bar'
+show-hidden=true
+show-size-column=true
+show-type-column=true
+sidebar-width=244
+sort-column='name'
+sort-directories-first=true
+sort-order='ascending'
+type-format='category'
+window-position=(537, 336)
+window-size=(1805, 1107)
+
+[org/virt-manager/virt-manager]
+manager-window-height=1049
+manager-window-width=2277
+
+[org/virt-manager/virt-manager/connections]
+autoconnect=['qemu:///system']
+uris=['qemu:///system']
+
+[org/virt-manager/virt-manager/vmlist-fields]
+disk-usage=false
+network-traffic=false
+
+[system/locale]
+region='en_US.UTF-8'
+
+[system/proxy]
+autoconfig-url='http://tushar2005am0uzzlnuhwf:vr3i0lcmt0uiqxyc@isp.proxies.fo:10808'
+ignore-hosts=@as []
+mode='none'
+
+[system/proxy/http]
+host='isp.proxies.fo'
+port=10808
+
+[system/proxy/socks]
+host=''
+port=0
