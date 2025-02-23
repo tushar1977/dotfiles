@@ -1,5 +1,6 @@
 shell=bash
 # Font
+
 font_family FiraCode Nerd Font Mono Reg
 italic_font auto
 bold_italic_font auto
@@ -20,7 +21,7 @@ show_hyperlink_targets yes
 # See https://github.com/be5invis/Iosevka/issues/248
 # See https://github.com/ryanoasis/nerd-fonts/wiki/Glyph-Sets-and-Code-Points
 term xterm-256color
-background_opacity 0.9
+background_opacity 1
 tab_bar_edge top
 tab_bar_margin_width 1.0
 tab_bar_margin_height 1.0 0.5
@@ -74,3 +75,4 @@ map f2 paste_from_buffer a
 # Atom One Light
 include current-theme.conf
 # END_KITTY_THEME
+#include oxo.conf
